@@ -24,8 +24,8 @@
     "core-js": "^2.4.1",
     "rxjs": "^5.4.2",
     "zone.js": "^0.8.14",
-    "bootstrap": "^4.0.0-beta",
     "jquery": "^3.2.1",
+    "bootstrap": "^4.0.0-beta",
     "ngx-bootstrap": "^1.9.1",
     "popper.js": "^1.12.3",
     "rc": "1.0.1"
