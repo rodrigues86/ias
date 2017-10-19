@@ -43,9 +43,9 @@
     "main": "app.js",
     "repository": {
       "type": "git",
-      "url": "git://github.com/LAB2W\\rodrigo.rodrigues/backend.git"
+      "url": "git://github.com/rodrigo.rodrigues/backend.git"
     },
-    "author": "LAB2W\\rodrigo.rodrigues",
+    "author": "rodrigo.rodrigues",
     "license": "",
     "devDependencies": {
       "@angular/cli": "^1.3.2",
