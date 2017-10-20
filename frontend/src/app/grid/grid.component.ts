@@ -1,5 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 
+import { Model } from 'sails';
+
+declare var sails: any;
+
 @Component({
   selector: 'app-grid',
   templateUrl: './grid.component.html',
