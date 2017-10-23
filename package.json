@@ -32,8 +32,8 @@
     },
     "scripts": {
       "ng": "ng",
-      "start": "ng serve",
-      "build": "ng build",
+      "start": "node backend/app",
+      "build": "ng frontend/build",
       "test": "ng test",
       "lint": "ng lint",
       "e2e": "ng e2e",

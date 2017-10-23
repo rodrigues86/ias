@@ -1,3 +1,6 @@
 .tmp/
+backend/.tmp/
+frontend/dist/
 frontend/node_modules/
 node_modules/
+backend/.foreverignore
